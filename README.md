@@ -21,7 +21,7 @@
 
 - **Advanced Multi-Agent Patterns** (Swarm)
 - **Model Alignment** (RLHF, DPO implementation)
-- **Rust** (For high-performance agent runtime)
+- **Harness Engineering**
 
 ---
 
